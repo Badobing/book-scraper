@@ -1,0 +1,2 @@
+This simple python script scrapes http://books.toscrape.com/ and places data of books in a csv file in the working directory
+of the script. It also use multithreading making it work under 30 seconds on my system (may vary depending on your system). If you get any errors feel free to let me know.
